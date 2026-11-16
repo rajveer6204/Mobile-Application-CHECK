@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_light">#F8FAFC</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="primary_indigo">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="text_dark">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="accent_blue">#2563EB</color>
+    <color name="accent_green">#16A34A</color>
+    <color name="accent_purple">#7C3AED</color>
+    <color name="accent_orange">#EA580C</color>
+
+    <!-- Smart Calculator Premium Dark Theme -->
+    <color name="calc_bg">#12131C</color>
+    <color name="calc_display_bg">#1A1C2A</color>
+    <color name="calc_btn_num">#242736</color>
+    <color name="calc_btn_num_pressed">#32364A</color>
+    <color name="calc_btn_op">#2E3248</color>
+    <color name="calc_btn_op_text">#00E5FF</color>
+    <color name="calc_btn_equal">#FF9500</color>
+    <color name="calc_btn_action">#3D2534</color>
+    <color name="calc_btn_action_text">#FF5252</color>
+    <color name="calc_expression_text">#94A3B8</color>
+    <color name="calc_result_text">#F8FAFC</color>
+
+    <!-- Demo background colors for Select Color demo -->
+    <color name="demo_red">#FEE2E2</color>
+    <color name="demo_green">#DCFCE7</color>
+    <color name="demo_blue">#DBEAFE</color>
+    <color name="demo_yellow">#FEF9C3</color>
+    <color name="demo_purple">#F3E8FF</color>
+</resources>
