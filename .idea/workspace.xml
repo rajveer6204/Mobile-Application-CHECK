@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="881e5cd1-30b8-4f62-88ed-00651d76cdd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UNIT I/Hello/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNIT I/Hello/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNIT I/Hello/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNIT I/Hello/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNIT I/Hello/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNIT I/Hello/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNIT I/Hello/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNIT I/Hello/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/java/com/example/digitallibraryproject/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/java/com/example/digitallibraryproject/BookAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/java/com/example/digitallibraryproject/BookDetailsActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/java/com/example/digitallibraryproject/BorrowedBookAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/java/com/example/digitallibraryproject/LibraryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/java/com/example/digitallibraryproject/MyApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/java/com/example/digitallibraryproject/MyBorrowedBooksActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/drawable/ic_book.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/layout/activity_book_details.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/layout/activity_borrowed_books.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/layout/item_book.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/layout/item_borrowed_book.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileApplication/Book/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NEWAGE/FSharp_Lab_Assessment/FSharp_First_Class.fsx" beforeDir="false" />
-    </list>
+    <list default="true" id="881e5cd1-30b8-4f62-88ed-00651d76cdd5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,12 +22,12 @@
     &quot;assignee&quot;: &quot;rajveer6204&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/rajveer6204/OPERATING-SYSTEMS-.git&quot;,
-    &quot;accountId&quot;: &quot;7cac57d4-20d3-4133-9b89-234e047fddfb&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rajveer6204/Mobile-Application-CHECK.git",
+    "accountId": "7cac57d4-20d3-4133-9b89-234e047fddfb"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -83,6 +50,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/5thSEM KMRU/Update mobile application/ClassWorkProject",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>

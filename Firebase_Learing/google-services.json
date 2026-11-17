@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "102927041905",
+    "firebase_url": "https://fir-learningproject-7d503-default-rtdb.firebaseio.com",
+    "project_id": "fir-learningproject-7d503",
+    "storage_bucket": "fir-learningproject-7d503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102927041905:android:f086b9a553e8732d66a2d0",
+        "android_client_info": {
+          "package_name": "com.rajveer.firebasestudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQg01M3JzjNvHfoVkOmwKwFu48ygXpFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
