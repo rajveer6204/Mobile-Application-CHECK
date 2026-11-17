@@ -23,6 +23,7 @@ An Android application designed to help students report lost and found items wit
 
 ### 2. Digital Library
 An Android application project focused on digital library management.
+https://appetize.io/app/b_h63u2mpcjwdtbnehzufxkebzn4
 
 **Technologies and implementation:**
 - Kotlin
