@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Android Practicals</string>
+    <string name="dashboard_title">ANDROID PRACTICALS</string>
+    <string name="dashboard_subtitle">Learn Android Development Through Practical Examples</string>
+    <string name="total_practicals">Total Practicals: 21</string>
+    <string name="click_me">Click Me</string>
+    <string name="greeting_message">Hello Rajveer! HOW are you? 😊</string>
+    <string name="welcome_title">Hello Rajveer</string>
+
+    <!-- Localisation Demo Strings -->
+    <string name="localisation_welcome">Welcome to Android Development!</string>
+    <string name="localisation_desc">This page demonstrates multi-language support (Localization) in Android using String Resources.</string>
+    <string name="select_language">Select Language:</string>
+    <string name="lang_english">English</string>
+    <string name="lang_hindi">हिंदी (Hindi)</string>
+
+    <!-- Calculator Buttons -->
+    <string name="btn_ac" translatable="false">C</string>
+    <string name="btn_del" translatable="false">DEL</string>
+    <string name="btn_percent" translatable="false">%</string>
+    <string name="btn_divide" translatable="false">÷</string>
+    <string name="btn_multiply" translatable="false">×</string>
+    <string name="btn_minus" translatable="false">−</string>
+    <string name="btn_plus" translatable="false">+</string>
+    <string name="btn_equal" translatable="false">=</string>
+    <string name="btn_plus_minus" translatable="false">+/−</string>
+    <string name="btn_dot" translatable="false">.</string>
+</resources>

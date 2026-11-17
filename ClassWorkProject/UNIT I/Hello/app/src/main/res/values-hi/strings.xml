@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">एंड्रॉयड प्रैक्टिकल्स</string>
+    <string name="dashboard_title">एंड्रॉयड प्रैक्टिकल्स</string>
+    <string name="dashboard_subtitle">व्यावाहारिक उदाहरणों से एंड्रॉयड सीखें</string>
+    <string name="total_practicals">कुल प्रैक्टिकल्स: 21</string>
+    <string name="localisation_welcome">एंड्रॉयड डेवलपमेंट में आपका स्वागत है!</string>
+    <string name="localisation_desc">यह पेज एंड्रॉयड में भाषा स्थानीयकरण (Localization) का प्रदर्शन करता है।</string>
+    <string name="select_language">भाषा चुनें:</string>
+    <string name="lang_english">English</string>
+    <string name="lang_hindi">हिंदी (Hindi)</string>
+</resources>
